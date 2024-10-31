@@ -5,3 +5,4 @@
 4. [Number guessing game](./numberGuessingGame/)
 5. [Text analyzer](./textAnalyzer/)
 6. [Password generator](./passwordGenerator/)
+7. [Tic-Tac-Toe](./ticTacToe/)
