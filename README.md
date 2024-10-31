@@ -3,3 +3,5 @@
 2. [Simple Arithmetic Calculator](./calculator/)
 3. [Todo List](./todoList/)
 4. [Number guessing game](./numberGuessingGame/)
+5. [Text analyzer](./textAnalyzer/)
+6. [Password generator](./passwordGenerator/)
