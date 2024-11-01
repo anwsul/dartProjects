@@ -6,3 +6,4 @@
 5. [Text analyzer](./textAnalyzer/)
 6. [Password generator](./passwordGenerator/)
 7. [Tic-Tac-Toe](./ticTacToe/)
+8. [Countdown timer](./countdownTimer/)
