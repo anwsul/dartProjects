@@ -1,8 +1,6 @@
 import 'dart:io';
 import 'dart:math';
 
-import '../calculator/calc.dart';
-
 void main() {
   final random = Random();
   final answer = random.nextInt(100) + 1;
